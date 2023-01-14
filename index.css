@@ -1,0 +1,30 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;  
+}
+ .dragon{
+    width: 150px;
+}
+.card {
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin: 250px auto;
+    background: #ddebf8;
+    border-bottom: 8px solid #d8cefe ;
+
+
+
+}
+.dragon-img{
+    padding-right: 40px;
+}
+
+.center{
+    text-align: center;
+    color: #2b2839;
+
+}
+/* .border{
+    border : 1px solid black; 
+} */
